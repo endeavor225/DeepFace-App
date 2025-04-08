@@ -20,7 +20,7 @@ Construite avec **Python**, **Streamlit** pour l'interface web, et **Pipenv** po
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/ton-utilisateur/deepface-app.git
+git clone https://github.com/endeavor225/deepface-app.git
 cd deepface-app
 ```
 
